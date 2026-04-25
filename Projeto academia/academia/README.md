@@ -4,13 +4,13 @@ Sistema de gerenciamento de academia desenvolvido em **Java (Swing)** com banco 
 
 ---
 
-## 📋 Descrição
+##  Descrição
 
 O **Sistema de Academia** permite gerenciar os principais cadastros de uma academia: alunos, instrutores, planos e matrículas. A aplicação conta com tela de login, interface gráfica completa e operações CRUD em todas as entidades, além de consultas com `INNER JOIN` e `LEFT JOIN`.
 
 ---
 
-## 🗂 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 📁 academia-gym/
@@ -106,13 +106,16 @@ java -cp ".;postgresql-42.x.x.jar" Login
 ## Screenshots da Aplicação
 
 ### Tela de Login
-> ![alt text](<Captura de tela 2026-04-24 203855.png>)
+> <img width="1920" height="1080" alt="Captura de tela 2026-04-24 203855" src="https://github.com/user-attachments/assets/6018a757-0167-432f-8714-104f7ab7ddea" />
+
 
 ### Menu Principal
-> *(inserir print aqui)*
+> <img width="1920" height="1080" alt="Captura de tela 2026-04-24 203916" src="https://github.com/user-attachments/assets/5fdee62a-0fd1-482a-8eda-65817ff55ffd" />
+
 
 ### Resultado de consulta com JOIN (Matrículas)
-> *(inserir print aqui — botão "📊 Relatório JOIN" na tela de Matrículas)*
+> <img width="1920" height="1080" alt="Captura de tela 2026-04-24 204018" src="https://github.com/user-attachments/assets/bdf07502-c78e-46bd-baab-e513451b5bda" />
+
 
 ---
 
