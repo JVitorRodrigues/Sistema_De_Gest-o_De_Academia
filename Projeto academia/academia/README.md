@@ -84,14 +84,14 @@ Coloque o arquivo `.jar` do driver JDBC na pasta `src/` e compile:
 
 ```bash
 cd src
-javac -cp ".;postgresql-42.x.x.jar" *.java          
+javac -cp ".;postgresql-42.7.10.jar" *.java          
 
 ```
 
 ### 5. Executar
 
 ```bash
-java -cp ".;postgresql-42.x.x.jar" Login             
+java -cp ".;postgresql-42.7.10.jar" Login             
 
 ```
 
