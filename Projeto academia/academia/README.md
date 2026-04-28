@@ -121,8 +121,6 @@ java -cp ".;postgresql-42.7.10.jar" Login
 
 ## Vídeo Demonstrativo
 
-> [Clique aqui para assistir a demonstração](#) *(substituir pelo link do YouTube/Drive)*
-
 ---
 
 ## Exemplos de Consultas SQL
