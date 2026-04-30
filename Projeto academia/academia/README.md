@@ -121,7 +121,7 @@ java -cp ".;postgresql-42.7.10.jar" Login
 
 ## Vídeo Demonstrativo
 
----
+Link: https://drive.google.com/file/d/1opx8OS9Ma1nzEh2gAwAXo-49PvkhG0_a/view?usp=drivesdk
 
 ## Exemplos de Consultas SQL
 
